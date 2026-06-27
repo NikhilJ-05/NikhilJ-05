@@ -135,79 +135,16 @@ An end-to-end AI decision support system that predicts employee attrition risk, 
 
 
 
-## 🛠️ Skills
+## 🛠️ Technologies & Expertise
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,rust,postgresql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,java,tensorflow,pytorch,fastapi,docker,postgres,mysql,firebase,redis,git,ansible,aws,github,linux,vscode&perline=9" />
 </p>
 
-- Python
-- Java
-- Rust
-- SQL
+| 💻 Languages | 🤖 Generative AI & Agents | 🏗️ AI Systems & Architecture |
+|--------------|---------------------------|------------------------------|
+| • Python <br> • Rust <br> • Java <br> • SQL | • Large Language Models (LLMs) <br> • Agentic AI <br> • Autonomous AI Systems <br> • Multi-Agent Systems <br> • Retrieval-Augmented Generation (RAG) <br> • Prompt Engineering <br> • Context Engineering <br> • Fine-Tuning <br> • LLM Evaluation (Evals) | • AI Systems Architecture <br> • Agent Harness Engineering <br> • Loop Engineering <br> • Enterprise Knowledge Systems <br> • Long-Term Memory Systems <br> • Workflow Orchestration <br> • Human-in-the-Loop Systems <br> • AI Observability |
 
----
-
-### 🤖 AI Engineering
-- Large Language Models (LLMs)
-- Agentic AI
-- Autonomous AI Systems
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Context Engineering
-- Fine-Tuning
-- Model Evaluation (LLM Evals)
-
----
-
-### 🧠 AI Systems & Infrastructure
-- AI Systems Architecture
-- Agent Harness Engineering
-- Enterprise Knowledge Systems
-- Knowledge Engineering
-- Long-Term Memory Systems
-- Semantic Search
-- Vector Databases
-- AI Observability
-- Human-in-the-Loop Systems
-
----
-
-### 🔗 Agent Frameworks & Protocols
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,firebase,redis" />
-</p>
-
-- LangGraph
-- LangChain
-- CrewAI
-- Model Context Protocol (MCP)
-- Agent2Agent (A2A)
-
----
-
-### 📊 Machine Learning
-- Supervised Learning
-- Feature Engineering
-- Data Preprocessing
-- Model Training
-- Hyperparameter Optimization
-- Imbalanced Learning
-- Explainable AI (XAI)
-
----
-
-### ⚙️ Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,firebase,redis,docker" />
-</p>
-
-- REST API Development
-- Asynchronous Processing
-- Database Design
-- Authentication & Authorization
-- API Integration
+| 📊 Machine Learning | 🔗 Agent Frameworks & Protocols | ⚙️ Backend & Infrastructure |
+|---------------------|--------------------------------|-----------------------------|
+| • Classical Machine Learning <br> • Deep Learning <br> • Predictive Modeling <br> • Explainable AI (XAI) | • LangGraph <br> • LangChain <br> • CrewAI <br> • Model Context Protocol (MCP) <br> • Agent2Agent (A2A) | • FastAPI <br> • REST APIs <br> • Vector Databases (Qdrant) <br>  • PostgreSQL <br> • Firebase <br> • Redis <br> • Docker <br> • MySQL |
