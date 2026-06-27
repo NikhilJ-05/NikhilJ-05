@@ -1,71 +1,98 @@
-Hi, I'm Nikhil Jumbad 👋
+<h1 align="center">Hi 👋, I'm Nikhil Jumbad</h1>
 
-AI Engineering Head | AI Systems Engineer | ML Engineer
+<h3 align="center">AI Engineering Head • AI Systems Engineer • Machine Learning Engineer</h3>
+
+<p align="center">
+Building production-grade intelligent systems, autonomous AI agents, and scalable AI infrastructure that enable AI to reason, learn, and interact with the real world.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,java,tensorflow,pytorch,fastapi,docker,postgres,mysql,firebase,redis,git,ansible,aws,github,linux,vscode&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NikhilJ-05&style=flat-square&color=blue" />
+</p>
+
+---
 
 ## 🧑‍💻 About Me
-
+- 🏢 AI Engineering Head @ Hyperion
 - 🎓 Final Year Computer Engineering Student
-- 💼 AI Engineering Head leading the development of AI-powered applications
-- 🏆 Team Lead of Team Zenith with 8× National Hackathon victories
-- 🤖 Passionate about designing AI systems using LLMs, multi-agent architectures, and modern machine learning techniques
-- ⚙️ Interested in scalable AI infrastructure, intelligent automation, and production-ready AI applications
-- 🔬 Continuously exploring how language models can reason, learn, and adapt more effectively
-- 📚 Enjoy building AI products that make learning and everyday workflows more intuitive
-- 🤝 Love collaborating with teams, mentoring developers, and turning ideas into impactful products
-
+- 🏆 Team Lead of Team Zenith with **9× National Hackathon victories**
+- 🤖 Building production-grade intelligent systems, autonomous AI agents, and scalable AI infrastructure
+- 🧠 Passionate about agentic AI, harness engineering, long-term memory, and distributed AI systems
+- 🔬 Exploring how AI systems can reason, learn, collaborate, and continuously adapt through interaction
+- 🤝 Always excited to collaborate on ambitious AI systems and research-driven engineering projects
+<br>
 
 ## 💼 Experience
 
 ### AI Engineering Head
-**Hyperion Pvt. Ltd.** | Mar 2026 – Present
-Leading the research and architecture of Hyperion's **Company Brain**—an enterprise AI platform that transforms fragmented organizational knowledge into an intelligent, persistent knowledge layer powering autonomous agents and enterprise workflows. My work focuses on designing the AI infrastructure that enables foundation models to reason over organizational context through memory, retrieval, agent harnesses, and execution environments.
+*Hyperion* | Mar 2026 – Present
+
+Leading the research, architecture, and development of Hyperion's Company Brain—an enterprise AI platform that transforms fragmented organizational knowledge into a persistent cognitive layer powering autonomous AI systems. My work focuses on engineering the infrastructure that enables AI systems to reason, plan, execute, and continuously improve through context engineering, long-term memory, agent orchestration, and evaluation.
 
 #### Key Contributions
-- Researching and architecting Hyperion's Company Brain—a persistent enterprise knowledge platform that serves as the cognitive layer for autonomous AI systems.
-- Designing enterprise knowledge infrastructure capable of continuously ingesting, organizing, and retrieving information across documents, conversations, business applications, and development platforms.
-- Architecting autonomous AI systems capable of planning, reasoning, tool utilization, and multi-step task execution across enterprise workflows.
-- Engineering the agent harness responsible for context engineering, memory management, tool orchestration, execution loops, verification, guardrails, and observability.
-- Designing retrieval architectures, semantic indexing, and long-term memory systems that enable contextual reasoning over enterprise knowledge.
-- Building evaluation, telemetry, and feedback pipelines to continuously measure, validate, and improve agent reliability and system performance.
-- Driving AI platform architecture, technical strategy, and engineering best practices while mentoring developers in building scalable production-grade AI systems.
+- Architecting Company Brain, a persistent enterprise knowledge platform that unifies organizational knowledge into a shared cognitive layer for autonomous AI systems.
+- Designing agentic AI systems capable of reasoning, planning, tool utilization, and multi-step task execution through context engineering, agent harnesses, and long-term memory.
+- Engineering scalable AI infrastructure including semantic retrieval architectures, distributed execution environments, and workflow orchestration for reliable enterprise AI.
+- Building evaluation, telemetry, observability, and feedback pipelines to continuously improve agent reliability, safety, and execution quality.
+- Driving AI platform architecture, technical strategy, and engineering best practices while mentoring developers building production-grade AI systems.
 
+<p align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</p>
 
 ### Technical Lead
-**GeeksforGeeks VIIT Student Chapter** | Sep 2025 – Present
-- Leading the technical team responsible for workshops, hackathons, and chapter infrastructure.
-- Managing deployment, maintenance, and reliability of technical platforms used during chapter events.
-- Designing programming challenges and mentoring students in Data Structures & Algorithms, Machine Learning, and Software Engineering.
+*GeeksforGeeks VIIT Student Chapter* | Sep 2025 – Present
+
+- Leading the technical team responsible for workshops, hackathons, and deployment of chapter infrastructure.
+- Designing competitive programming challenges and mentoring students in Data Structures & Algorithms, Machine Learning, and Software Engineering.
 - Coordinating engineering initiatives and technical operations for large-scale community events.
 
+
+
 ### Technical Associate
-**GeeksforGeeks VIIT Student Chapter** | Aug 2024 – Sep 2025
+*GeeksforGeeks VIIT Student Chapter* | Aug 2024 – Sep 2025
+
 - Developed technical content and competitive programming challenges for coding competitions.
-- Assisted in organizing technical workshops, hackathons, and community learning initiatives.
-- Mentored participants and contributed to the chapter's technical growth.
+- Assisted in organizing technical workshops, hackathons, and community learning initiatives while mentoring participants.
+
 
 
 ### Game Developer
-**Xtended Reality & GameDev Forum (XRGF)** | Aug 2024 – Jul 2025
+*Xtended Reality & GameDev Forum (XRGF)* | Aug 2024 – Jul 2025
+
 - Developed gameplay mechanics, AI behaviors, and interactive systems using Unity.
-- Implemented finite state machines (FSM), NPC behaviors, animations, and game logic.
-- Collaborated on team-based game development projects showcased during technical events.
+- Implemented finite state machines (FSM), NPC behaviors, animations, and game logic for collaborative game development projects.
+
 
 
 ### Summer Research Intern – Game Development
-**Coventry University, United Kingdom** | Jul 2024
-- Participated in an international summer research program focused on game development and interactive systems.
-- Designed and developed **Tempest**, a collaborative 2D shooter game using Unity.
-- Explored game AI through finite state machines (FSM), NPC behavior, animation systems, and gameplay mechanics.
-- Collaborated with an international team while gaining experience in product ideation, game design, and rapid prototyping.
+*Coventry University, United Kingdom* | Jul 2024
 
+- Participated in an international research program focused on game development, interactive systems, and rapid product prototyping.
+- Designed and developed **Tempest**, a collaborative 2D shooter using Unity, implementing gameplay mechanics, finite state machines (FSM), NPC AI, and animation systems.
+- Collaborated with an international team while gaining experience in game design, product ideation, and iterative software development.
+
+<p align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</p>
 
 ### Leadership & Community
 - **Department Coordinator** — Office of International Relations, VIIT
 - **Technical Team Member** — CyberCell VIIT (Cybersecurity events & technical initiatives)
 - **Technical Team Member** — IEEE VIIT Student Branch (Technical workshops & engineering events)
+<br>
 
 
-### 🚀 Gradus
+## 🚀 Projects
+### Gradus
 **AI-Native Adaptive Learning Platform**
 > *Reimagining education through adaptive learner modeling, deterministic agent orchestration, and AI-driven personalization.*
 🔗 **Repository:** [Gradus](https://github.com/member-teamzenith/Gradus_Public) • 🌐 **Live Demo:** [Demo](https://www.gradus-zenith.tech/)
@@ -81,9 +108,14 @@ Gradus is an AI-powered adaptive learning platform that transforms videos, docum
 - ⚙️ Developed scalable AI infrastructure using FastAPI, LangGraph, vector databases, Redis, PostgreSQL, Firebase, Docker, and asynchronous processing pipelines.
 
 **Tech Stack:** Python • FastAPI • LangGraph • Next.js • Qdrant • PostgreSQL • Redis • Firebase • Docker • LLMs
-  
 
-### 🔌 Project Socket
+<p align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</p>
+
+### Project Socket
 **Universal App Store & Service Gateway for AI Agents**
 > *Enabling AI agents to seamlessly discover, authenticate, and interact with real-world digital services through a scalable, protocol-agnostic execution framework.*
 🔗 **Repository:** [Project Socket](https://github.com/NikhilJ-05/Project-Socket)
@@ -98,9 +130,13 @@ Project Socket is a universal service ecosystem that enables AI agents to intera
 - 📦 Developed a standardized **Service Registry** that allows developers to onboard new applications through declarative Service Cards, creating an extensible marketplace of AI-accessible services without modifying the gateway infrastructure.
 
 **Tech Stack:** Python • FastAPI • LangGraph • MCP • OAuth 2.0 • PostgreSQL • Redis • REST APIs • HTTP/2
+<p align="center">
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🌍 Orion
+</p>
+
+### Orion
 **Live Web Intelligence & Long-Term Memory Engine for AI Agents**
 > *Giving AI agents continuous access to the live web while enabling them to build persistent semantic memory from everything they learn.*
 🔗 **Repository:** [Orion](https://github.com/NikhilJ-05/Web-Scrapper-for-AI-agents)
@@ -115,8 +151,13 @@ Orion is a web intelligence engine that extends AI agents beyond static knowledg
 
 **Tech Stack:** Python • Qdrant • SearXNG • LangChain • BGE Embeddings • Trafilatura • Crawl4AI • asyncio • Docker
 
+<p align="center">
 
-### 🧠 HR Attrition Intelligence System
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</p>
+
+### HR Attrition Intelligence System
 **Explainable AI Decision Support Platform for Workforce Retention**
 > *Transforming predictive machine learning into actionable business intelligence through explainable AI and LLM-powered decision support.*
 🔗 **Repository:** [HR Attrition Intelligence System](https://github.com/NikhilJ-05/Employee-Attrition-System)
@@ -131,14 +172,9 @@ An end-to-end AI decision support system that predicts employee attrition risk, 
 - ⚙️ Designed and deployed the complete solution using FastAPI with an integrated web interface, interactive visualizations, and REST APIs for real-time inference.
 
 **Tech Stack:** Python • FastAPI • XGBoost • SHAP • Optuna • Scikit-learn • Groq Llama 4 • Pandas
-
-
+<br><br>
 
 ## 🛠️ Technologies & Expertise
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,java,tensorflow,pytorch,fastapi,docker,postgres,mysql,firebase,redis,git,ansible,aws,github,linux,vscode&perline=9" />
-</p>
 
 | 💻 Languages | 🤖 Generative AI & Agents | 🏗️ AI Systems & Architecture |
 |--------------|---------------------------|------------------------------|
@@ -147,14 +183,13 @@ An end-to-end AI decision support system that predicts employee attrition risk, 
 | 📊 Machine Learning | 🔗 Agent Frameworks & Protocols | ⚙️ Backend & Infrastructure |
 |---------------------|--------------------------------|-----------------------------|
 | • Classical Machine Learning <br> • Deep Learning <br> • Predictive Modeling <br> • Explainable AI (XAI) | • LangGraph <br> • LangChain <br> • CrewAI <br> • Model Context Protocol (MCP) <br> • Agent2Agent (A2A) | • FastAPI <br> • REST APIs <br> • Vector Databases (Qdrant) <br>  • PostgreSQL <br> • Firebase <br> • Redis <br> • Docker <br> • MySQL |
-
+<br>
 
 ## 🔬 Research Interests
 
 I'm passionate about researching and engineering intelligent systems that move beyond standalone language models and become reliable collaborators for solving real-world problems.
 
 My current areas of interest include:
-
 - 🧠 Developing next-generation AI systems capable of reasoning, planning, and adapting to dynamic environments.
 - 👥 Designing AI architectures inspired by human learning, memory, and decision-making processes.
 - 🏢 Building organizational intelligence systems ("Company Brains") that transform enterprise knowledge into actionable intelligence.
@@ -163,13 +198,16 @@ My current areas of interest include:
 
 📝 **Research & Technical Blogs:** https://www.hyperionlabs.co.in/blogs
 
+<br>
 
 ## 🏆 Achievements
 - 🥇 **Winner – Smart India Hackathon (SIH)**, India's largest national hackathon.
 - 🏆 **9× National Hackathon Winner** as Team Lead across AI, Software Engineering, and Innovation competitions.
 - 🎤 **Invited Presenter – India AI-Impact Summit**, showcasing **Gradus**, an adaptive AI-powered learning platform, to industry leaders, researchers, and policymakers.
 - 📜 **Indian Patent Published** - “A Fire Detection System” (Indian Patent Office Journal, Application No. 202521028857 A).
+- 🚀 Built and deployed AI systems currently serving **900+ learners** in production educational environments.
 
+<br>
 
 ## 🎓 Education
 
@@ -182,11 +220,35 @@ My current areas of interest include:
 
 ### Additional Academic Experience
 - Selected for **IIT Madras**, where I began the B.S. in Data Science & Applications program, gaining exposure to statistics, data science, and machine learning fundamentals before choosing to pursue other priorities.
-
+<br>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NikhilJ-05&theme=github-dark-blue&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilJ-05&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<br>
+
+## 🤝 Let's Connect
+
+<p align="center">
+I'm always interested in discussing AI systems, autonomous agents, enterprise AI infrastructure, research, and ambitious engineering projects.
+</p>
+
+<p align="center">
+  <a href="mailto:nikhil19092005@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/nikhil-jumbad/">LinkedIn</a> •
+  <a href="https://www.hyperionlabs.co.in/blogs">Technical Blogs</a>
+</p>
+
+---
+
+<p align="center">
+<b>“Building AI systems that don't just generate answers - but reason, learn, and adapt.”</b>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you enjoy my work, consider starring a repository or connecting with me.
 </p>
