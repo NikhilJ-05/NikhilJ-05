@@ -68,7 +68,7 @@ Leading the research and architecture of Hyperion's **Company Brain**—an enter
 ### 🚀 Gradus
 **AI-Native Adaptive Learning Platform**
 > *Reimagining education through adaptive learner modeling, deterministic agent orchestration, and AI-driven personalization.*
-🔗 **Repository:** [Gradus](https://github.com/member-teamzenith/Gradus_Public) • 🌐 **Live Demo:** [https://your-demo-url.com](https://www.gradus-zenith.tech/)
+🔗 **Repository:** [Gradus](https://github.com/member-teamzenith/Gradus_Public) • 🌐 **Live Demo:** [Demo](https://www.gradus-zenith.tech/)
 
 Gradus is an AI-powered adaptive learning platform that transforms videos, documents, and institutional content into personalized learning experiences. Powered by **Orion**, a stateful multi-agent learning engine, the platform continuously models learner understanding, identifies knowledge gaps, and adapts learning pathways in real time. **Today, Gradus is actively used by over 900 learners**, validating its architecture in real educational environments.
 
@@ -82,3 +82,132 @@ Gradus is an AI-powered adaptive learning platform that transforms videos, docum
 
 **Tech Stack:** Python • FastAPI • LangGraph • Next.js • Qdrant • PostgreSQL • Redis • Firebase • Docker • LLMs
   
+
+### 🔌 Project Socket
+**Universal App Store & Service Gateway for AI Agents**
+> *Enabling AI agents to seamlessly discover, authenticate, and interact with real-world digital services through a scalable, protocol-agnostic execution framework.*
+🔗 **Repository:** [Project Socket](https://github.com/NikhilJ-05/Project-Socket)
+
+Project Socket is a universal service ecosystem that enables AI agents to interact with real-world digital services—including hotel and flight booking, food delivery, navigation, weather, messaging, productivity tools, and enterprise platforms. Instead of hardcoding every integration or loading thousands of tool definitions into an agent's context, Project Socket enables **Just-in-Time (JIT) service discovery**, allowing agents to dynamically discover, authenticate, and execute only the services they require at runtime.
+
+#### Highlights
+- 🌐 Designed a **Just-in-Time Service Discovery** architecture that enables AI agents to dynamically discover and connect to real-world services without preloading their capabilities into the context window.
+- 🔌 Built a protocol-agnostic execution gateway supporting both **Model Context Protocol (MCP)** and traditional REST APIs, allowing heterogeneous services to be accessed through a unified interface.
+- 🔐 Engineered a unified authentication framework supporting OAuth 2.0, API Keys, secure credential management, and automated authorization workflows across third-party applications.
+- 🛡️ Implemented safety guardrails with capability-level risk classification, human-in-the-loop confirmations, and execution policies for secure autonomous task execution.
+- 📦 Developed a standardized **Service Registry** that allows developers to onboard new applications through declarative Service Cards, creating an extensible marketplace of AI-accessible services without modifying the gateway infrastructure.
+
+**Tech Stack:** Python • FastAPI • LangGraph • MCP • OAuth 2.0 • PostgreSQL • Redis • REST APIs • HTTP/2
+
+
+### 🌍 Orion
+**Live Web Intelligence & Long-Term Memory Engine for AI Agents**
+> *Giving AI agents continuous access to the live web while enabling them to build persistent semantic memory from everything they learn.*
+🔗 **Repository:** [Orion](https://github.com/NikhilJ-05/Web-Scrapper-for-AI-agents)
+Orion is a web intelligence engine that extends AI agents beyond static knowledge by providing continuous access to the live web. It enables agents to discover current information, extract and understand high-quality content, and automatically transform retrieved knowledge into a persistent semantic memory. Rather than repeatedly searching for the same information, Orion allows agents to learn from every retrieval, creating an ever-growing knowledge base that becomes faster, smarter, and more cost-efficient over time.
+
+#### Highlights
+- 🌍 Enabled AI agents to access live web knowledge through private meta-search, asynchronous crawling, intelligent content extraction, and semantic processing.
+- 🧠 Engineered a self-improving semantic memory system that automatically converts retrieved web knowledge into reusable long-term memory for future reasoning.
+- ⚡ Designed a two-phase orchestration pipeline that returns live search results immediately while asynchronously expanding the agent's knowledge base.
+- 🔍 Built a high-performance semantic retrieval engine supporting contextual search, payload filtering, and sub-100ms retrieval from persistent vector memory.
+- 🛠️ Developed scalable document processing pipelines with token-aware chunking, parallel embedding, idempotent storage, and optimized vector indexing.
+
+**Tech Stack:** Python • Qdrant • SearXNG • LangChain • BGE Embeddings • Trafilatura • Crawl4AI • asyncio • Docker
+
+
+### 🧠 HR Attrition Intelligence System
+**Explainable AI Decision Support Platform for Workforce Retention**
+> *Transforming predictive machine learning into actionable business intelligence through explainable AI and LLM-powered decision support.*
+🔗 **Repository:** [HR Attrition Intelligence System](https://github.com/NikhilJ-05/Employee-Attrition-System)
+
+An end-to-end AI decision support system that predicts employee attrition risk, explains every prediction using Explainable AI (SHAP), and generates personalized retention strategies through LLM-powered analysis. Rather than providing only a probability score, the platform enables HR teams to understand **why** an employee is at risk and **what actions** can be taken to improve retention.
+
+#### Highlights
+- 📈 Developed a production-ready machine learning pipeline using XGBoost, feature engineering, SMOTE-ENN resampling, and Bayesian hyperparameter optimization to improve minority-class prediction performance.
+- 🔬 Integrated SHAP Explainable AI to decompose every prediction into feature-level contributions, providing transparent and interpretable decision-making.
+- 🤖 Built an AI-powered HR consultant that transforms explainability outputs into professional risk assessments, personalized retention strategies, and contextual follow-up recommendations.
+- 💬 Implemented a stateful conversational assistant enabling HR managers to interactively explore employee-specific insights while maintaining analytical context.
+- ⚙️ Designed and deployed the complete solution using FastAPI with an integrated web interface, interactive visualizations, and REST APIs for real-time inference.
+
+**Tech Stack:** Python • FastAPI • XGBoost • SHAP • Optuna • Scikit-learn • Groq Llama 4 • Pandas
+
+
+
+
+## 🛠️ Skills
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,rust,postgresql" />
+</p>
+
+- Python
+- Java
+- Rust
+- SQL
+
+---
+
+### 🤖 AI Engineering
+- Large Language Models (LLMs)
+- Agentic AI
+- Autonomous AI Systems
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Context Engineering
+- Fine-Tuning
+- Model Evaluation (LLM Evals)
+
+---
+
+### 🧠 AI Systems & Infrastructure
+- AI Systems Architecture
+- Agent Harness Engineering
+- Enterprise Knowledge Systems
+- Knowledge Engineering
+- Long-Term Memory Systems
+- Semantic Search
+- Vector Databases
+- AI Observability
+- Human-in-the-Loop Systems
+
+---
+
+### 🔗 Agent Frameworks & Protocols
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,firebase,redis" />
+</p>
+
+- LangGraph
+- LangChain
+- CrewAI
+- Model Context Protocol (MCP)
+- Agent2Agent (A2A)
+
+---
+
+### 📊 Machine Learning
+- Supervised Learning
+- Feature Engineering
+- Data Preprocessing
+- Model Training
+- Hyperparameter Optimization
+- Imbalanced Learning
+- Explainable AI (XAI)
+
+---
+
+### ⚙️ Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,firebase,redis,docker" />
+</p>
+
+- REST API Development
+- Asynchronous Processing
+- Database Design
+- Authentication & Authorization
+- API Integration
