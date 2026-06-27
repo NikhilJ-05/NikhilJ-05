@@ -238,10 +238,14 @@ I'm always interested in discussing AI systems, autonomous agents, enterprise AI
 </p>
 
 <p align="center">
-  <a href="mailto:nikhil19092005@gmail.com">Email</a> •
+📧 <strong>Email:</strong> nikhil19092005@gmail.com
+</p>
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1r3rs_KvQNu7VEs94VfVZZabJvauxtSiP?usp=sharing">Resume</a> •
   <a href="https://www.linkedin.com/in/nikhil-jumbad/">LinkedIn</a> •
   <a href="https://www.hyperionlabs.co.in/blogs">Technical Blogs</a>
 </p>
+
 
 ---
 
