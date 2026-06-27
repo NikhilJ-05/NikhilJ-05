@@ -134,7 +134,6 @@ An end-to-end AI decision support system that predicts employee attrition risk, 
 
 
 
-
 ## 🛠️ Technologies & Expertise
 
 <p align="center">
@@ -148,3 +147,46 @@ An end-to-end AI decision support system that predicts employee attrition risk, 
 | 📊 Machine Learning | 🔗 Agent Frameworks & Protocols | ⚙️ Backend & Infrastructure |
 |---------------------|--------------------------------|-----------------------------|
 | • Classical Machine Learning <br> • Deep Learning <br> • Predictive Modeling <br> • Explainable AI (XAI) | • LangGraph <br> • LangChain <br> • CrewAI <br> • Model Context Protocol (MCP) <br> • Agent2Agent (A2A) | • FastAPI <br> • REST APIs <br> • Vector Databases (Qdrant) <br>  • PostgreSQL <br> • Firebase <br> • Redis <br> • Docker <br> • MySQL |
+
+
+## 🔬 Research Interests
+
+I'm passionate about researching and engineering intelligent systems that move beyond standalone language models and become reliable collaborators for solving real-world problems.
+
+My current areas of interest include:
+
+- 🧠 Developing next-generation AI systems capable of reasoning, planning, and adapting to dynamic environments.
+- 👥 Designing AI architectures inspired by human learning, memory, and decision-making processes.
+- 🏢 Building organizational intelligence systems ("Company Brains") that transform enterprise knowledge into actionable intelligence.
+- 🤖 Architecting autonomous agent ecosystems capable of collaborating, learning, and safely interacting with external systems.
+- 🌍 Deploying production-ready AI systems that solve meaningful real-world problems across education, enterprises, and everyday life.
+
+📝 **Research & Technical Blogs:** https://www.hyperionlabs.co.in/blogs
+
+
+## 🏆 Achievements
+- 🥇 **Winner – Smart India Hackathon (SIH)**, India's largest national hackathon.
+- 🏆 **9× National Hackathon Winner** as Team Lead across AI, Software Engineering, and Innovation competitions.
+- 🎤 **Invited Presenter – India AI-Impact Summit**, showcasing **Gradus**, an adaptive AI-powered learning platform, to industry leaders, researchers, and policymakers.
+- 📜 **Indian Patent Published** - “A Fire Detection System” (Indian Patent Office Journal, Application No. 202521028857 A).
+
+
+## 🎓 Education
+
+### Vishwakarma Institute of Information Technology (VIIT), Pune
+**Bachelor of Technology (B.Tech.) – Computer Engineering**  
+📅 Sep 2023 – June 2027(Ongoing)
+
+- 📈 **Current SGPA:** 9.68 / 10.00
+- 🏅 **Current CGPA:** 8.96 / 10.00
+
+### Additional Academic Experience
+- Selected for **IIT Madras**, where I began the B.S. in Data Science & Applications program, gaining exposure to statistics, data science, and machine learning fundamentals before choosing to pursue other priorities.
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NikhilJ-05&theme=github-dark-blue&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilJ-05&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
