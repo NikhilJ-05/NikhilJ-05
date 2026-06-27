@@ -29,6 +29,7 @@ Leading the research and architecture of Hyperion's **Company Brain**—an enter
 - Building evaluation, telemetry, and feedback pipelines to continuously measure, validate, and improve agent reliability and system performance.
 - Driving AI platform architecture, technical strategy, and engineering best practices while mentoring developers in building scalable production-grade AI systems.
 
+
 ### Technical Lead
 **GeeksforGeeks VIIT Student Chapter** | Sep 2025 – Present
 - Leading the technical team responsible for workshops, hackathons, and chapter infrastructure.
@@ -42,11 +43,13 @@ Leading the research and architecture of Hyperion's **Company Brain**—an enter
 - Assisted in organizing technical workshops, hackathons, and community learning initiatives.
 - Mentored participants and contributed to the chapter's technical growth.
 
+
 ### Game Developer
 **Xtended Reality & GameDev Forum (XRGF)** | Aug 2024 – Jul 2025
 - Developed gameplay mechanics, AI behaviors, and interactive systems using Unity.
 - Implemented finite state machines (FSM), NPC behaviors, animations, and game logic.
 - Collaborated on team-based game development projects showcased during technical events.
+
 
 ### Summer Research Intern – Game Development
 **Coventry University, United Kingdom** | Jul 2024
@@ -55,9 +58,27 @@ Leading the research and architecture of Hyperion's **Company Brain**—an enter
 - Explored game AI through finite state machines (FSM), NPC behavior, animation systems, and gameplay mechanics.
 - Collaborated with an international team while gaining experience in product ideation, game design, and rapid prototyping.
 
+
 ### Leadership & Community
 - **Department Coordinator** — Office of International Relations, VIIT
 - **Technical Team Member** — CyberCell VIIT (Cybersecurity events & technical initiatives)
 - **Technical Team Member** — IEEE VIIT Student Branch (Technical workshops & engineering events)
 
+
+### 🚀 Gradus
+**AI-Native Adaptive Learning Platform**
+> *Reimagining education through adaptive learner modeling, deterministic agent orchestration, and AI-driven personalization.*
+🔗 **Repository:** [Gradus](https://github.com/member-teamzenith/Gradus_Public) • 🌐 **Live Demo:** [https://your-demo-url.com](https://www.gradus-zenith.tech/)
+
+Gradus is an AI-powered adaptive learning platform that transforms videos, documents, and institutional content into personalized learning experiences. Powered by **Orion**, a stateful multi-agent learning engine, the platform continuously models learner understanding, identifies knowledge gaps, and adapts learning pathways in real time. **Today, Gradus is actively used by over 900 learners**, validating its architecture in real educational environments.
+
+#### Highlights
+- 🧠 Designed **Orion**, a closed-loop learner modeling engine that continuously updates concept mastery, cognitive traits, memory, and learning preferences from every learner interaction.
+- 🤖 Architected a hierarchical multi-agent system where deterministic orchestration decides **what** to do while specialized LLM agents determine **how** to execute it.
+- 📚 Built a multimodal knowledge ingestion pipeline capable of transforming videos, PDFs, presentations, and organizational knowledge into structured semantic learning representations.
+- 🔄 Engineered adaptive content generation for personalized explanations, quizzes, revision schedules, assessments, and dynamically evolving learning pathways.
+- 👥 Successfully deployed the platform to **900+ active learners**, demonstrating scalable AI-powered personalized education.
+- ⚙️ Developed scalable AI infrastructure using FastAPI, LangGraph, vector databases, Redis, PostgreSQL, Firebase, Docker, and asynchronous processing pipelines.
+
+**Tech Stack:** Python • FastAPI • LangGraph • Next.js • Qdrant • PostgreSQL • Redis • Firebase • Docker • LLMs
   
